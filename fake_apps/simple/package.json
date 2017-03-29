@@ -1,0 +1,15 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tomasz Kasperek <kasperekt@gmail.com> (http://tomaszkasperek.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7"
+  }
+}
